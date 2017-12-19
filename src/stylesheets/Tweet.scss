@@ -1,0 +1,21 @@
+/* YOUR STYLING HERE */
+.grey {
+  color: $grey;
+}
+.red {
+  color: $red;
+}
+.green {
+  color: $green;
+}
+.bold {
+  font-weight: bold;
+}
+.tweetBox {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: white;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
